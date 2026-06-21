@@ -2,7 +2,7 @@
 
 A high-performance, modular 2D space arcade shooter engineered with an **Event-Driven Architecture** using standard .NET design patterns to achieve clean code separation.
 
-🎮 **[Click Here to Play the Live WebGL Build on Itch.io](https://itch.io)**
+🎮 **[Click Here to Play the Live WebGL Build on Itch.io](https://sjxexe.itch.io/decoupled-space-shooter)**
 
 ---
 
